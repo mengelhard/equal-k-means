@@ -1,2 +1,2 @@
 # equal-k-means
-bare-bones python implementation of equal-size k-means algorithm
+bare-bones, numpy-only implementation of equal-size k-means algorithm
